@@ -198,9 +198,7 @@ h1 {
     margin-left: 0;
     font-size: 16px;
   }
-  .header-bottom {
-    margin-top: 300px;
-  }
+
   .header-bottom p {
     font-size: 24px;
   }
@@ -242,7 +240,6 @@ h1 {
 }
 @media (max-width: 740px) {
   .header-bottom {
-    margin-top: 145px;
     justify-content: center;
     flex-direction: column;
   }
