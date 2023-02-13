@@ -1124,7 +1124,6 @@ textarea::placeholder {
   position: relative;
   padding-top: 110px;
   padding-bottom: 85px;
-  overflow: hidden;
 }
 .footer .container::before {
   content: '';
